@@ -12,4 +12,4 @@ To use this webpage, you can use the navigation buttons in to the right of the h
 The largest tile under the "Work" section contains a link that, when clicked, will redirect to my GitHub repository for that project. 
 
 
-[Link to deployed webpage](https://link-url-here.org)
+[Link to deployed webpage](https://j0shuaj0nes.github.io/Portfolio/)
